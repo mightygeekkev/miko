@@ -1,0 +1,28 @@
+body {
+	background-color: #fafafb;
+}
+
+section.bio {
+	text-align: center;
+}
+
+section.bio h1 {
+	text-align: center;
+	color: pink;
+}
+
+section.bio p {
+	background-color: yellow;
+	border: 10px solid blue;
+	text-align: center;
+}
+
+section.bio a {
+	text-align: center;
+	display: block;
+}
+
+section.bio img {
+	width: 150px; 
+	height: 150px;
+}
