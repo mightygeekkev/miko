@@ -1,0 +1,31 @@
+head {
+	text-align: center;
+}
+
+
+body{
+	background-color: red;
+}
+h1{
+	background-color: green;
+	text-align: center;
+}
+p{
+background-color: yellow;
+border: 10px solid blue;
+text-align: center;
+}
+a href{
+	text-align: center;
+}
+table, th, td {
+	text-align: center;
+	border: 2px solid blue;
+	border-collapse: collapse;
+	}
+th, td {
+	padding: 15px
+};
+th{
+	text-align: center;
+}
